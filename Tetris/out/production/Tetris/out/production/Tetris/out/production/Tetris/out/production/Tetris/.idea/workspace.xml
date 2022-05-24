@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2bd4ea9c-680f-4561-9cca-ca794dada6ec" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nUZQwSEXe8TAj9tUyqQgwHneBO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/ClientServerBaselineApp" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.18505748" />
+    <property name="settings.editor.selected.configurable" value="com.intellij.jarRepository.settings.RemoteRepositoriesConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Tetris" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tetris" />
+      <module name="Tetris" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Tetris" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2bd4ea9c-680f-4561-9cca-ca794dada6ec" name="Default Changelist" comment="" />
+      <created>1611446617059</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611446617059</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="140" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1638417130025">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="140" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1368.872@0.0.1368.872" timestamp="1638417130025" />
+    <state x="411" y="324" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1638417078572">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="411" y="324" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1368.872@0.0.1368.872" timestamp="1638417078572" />
+    <state x="465" y="191" key="FileChooserDialogImpl" timestamp="1635810589431">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="465" y="191" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1635810589431" />
+    <state width="1326" height="227" key="GridCell.Tab.0.bottom" timestamp="1638415933069">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="227" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1638415933069" />
+    <state width="1326" height="227" key="GridCell.Tab.0.center" timestamp="1638415933069">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="227" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1638415933069" />
+    <state width="1326" height="227" key="GridCell.Tab.0.left" timestamp="1638415933069">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="227" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1638415933069" />
+    <state width="1326" height="227" key="GridCell.Tab.0.right" timestamp="1638415933069">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="227" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1638415933069" />
+    <state x="165" y="11" key="SettingsEditor" timestamp="1638461177708">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="165" y="11" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1638461177708" />
+    <state x="417" y="0" width="963" height="858" key="dock-window-1" timestamp="1638415855284">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="417" y="0" width="963" height="858" key="dock-window-1/0.0.1368.872@0.0.1368.872" timestamp="1638415855284" />
+    <state x="109" y="97" key="new project wizard" timestamp="1638415983702">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="109" y="97" key="new project wizard/0.0.1368.872@0.0.1368.872" timestamp="1638415983702" />
+    <state x="347" y="184" width="672" height="678" key="search.everywhere.popup" timestamp="1637687683512">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="347" y="184" width="672" height="678" key="search.everywhere.popup/0.0.1368.872@0.0.1368.872" timestamp="1637687683512" />
+  </component>
+</project>
